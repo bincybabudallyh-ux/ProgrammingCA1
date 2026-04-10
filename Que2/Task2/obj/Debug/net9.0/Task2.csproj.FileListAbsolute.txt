@@ -1,0 +1,14 @@
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\bin\Debug\net9.0\Task2.exe
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\bin\Debug\net9.0\Task2.deps.json
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\bin\Debug\net9.0\Task2.dll
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\bin\Debug\net9.0\Task2.pdb
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\Task2.dll
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\refint\Task2.dll
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\Task2.pdb
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+D:\DBS -Sem1\ProgrammingCA1_CodingFiles\CSharpCodes\Que.2\task2\obj\Debug\net9.0\ref\Task2.dll
